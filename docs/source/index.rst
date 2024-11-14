@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+BJ39
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BJ39 <https://bj39.vin/>`_ nhà cái uy tín hàng đầu tại Châu Á cung cấp sản phẩm Casino, Thể thao, Xổ số, Đá gà Thomo trực tuyến, Bắn cá, Nổ hũ. Chuyên cung cấp đa dạng sản phẩm giải trí trực tuyến, phục vụ nhu cầu cá cược và thư giãn cho người chơi trên toàn thế giới. BJ39 cam kết mang đến trải nghiệm chuyên nghiệp, công bằng và an toàn
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+BJ39 luôn đảm bảo các dịch vụ đều được hỗ trợ bởi đội ngũ chuyên nghiệp, sẵn sàng giải đáp và hỗ trợ người chơi 24/7. Hệ thống bảo mật an toàn và chính sách thanh toán minh bạch giúp người chơi yên tâm trải nghiệm, đồng thời đem lại sự thoải mái và tiện lợi tối đa khi giải trí tại BJ39.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1842 Đ. Vĩnh Lộc, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0884236668. 
 
-.. toctree::
+Email: info@bj39.vin. 
 
-   usage
-   api
+Website: https://bj39.vin/ 
+
+#bj39 #bj39vin #nhacaibj39  #linkbj39 #linkvaobj39
